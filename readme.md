@@ -1,6 +1,6 @@
 # Data Analytics / Data Science Projects
 This is a master index for the data science and data analytics projects that are available at https://github.com/quantumphysicist/.  
-Author: Dr. Renju Mathew  
+Author: Dr. Renju Mathew.  
 
 ### Data Analytics
 [Ford-GoBike-Trip-Data-Analysis](https://github.com/quantumphysicist/Ford-GoBike-Trip-Data-Analysis)   
