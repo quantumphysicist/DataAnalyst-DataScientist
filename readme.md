@@ -15,7 +15,7 @@ Analysis of a dataset containing information about 10,000 movies taken from The 
 [WeRateDogs](https://github.com/quantumphysicist/WeRateDogs-Twitter-Archive-Data-Analysis)   
 Analysis of the twitter archive of @WeRateDogs.
 
-[Data Dashboard](https://github.com/quantumphysicist/Data-Dashboard-IBM-Data-Analyst)
+[Data Dashboard](https://github.com/quantumphysicist/Data-Dashboard-IBM-Data-Analyst)  
 A [data dashboard](https://www.tinyurl.com/4c9szz63) and report on identifying future IT skill requirements.
 
 ### Data Science
