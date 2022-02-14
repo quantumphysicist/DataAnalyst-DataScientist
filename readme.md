@@ -1,5 +1,6 @@
 # Data Analytics / Data Science Projects
-This is a master index for the data science and data analytics projects that are available at https://github.com/quantumphysicist/.  
+This is a master index for the data science and data analytics projects that are available at https://github.com/quantumphysicist/. 
+There is heavy overlap between the skills and tools used for both types of project.
 Author: Dr. Renju Mathew.  
 
 ### Data Analytics
