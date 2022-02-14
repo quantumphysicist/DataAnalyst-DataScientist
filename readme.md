@@ -37,6 +37,6 @@ Includes instructions for deploying as a web app.
 Data analysis on Stack Overflow survey data to help programmers understand their field.  
 
 [Customers vs. General Population](https://github.com/quantumphysicist/Arvato)  
-Supervised and unsupervised machine learning performed on customer data.
-Discovered properties differentiating the customer base from the population at large.
-Created a predictive model for a targeted advertising campaign.
+Supervised and unsupervised machine learning performed on customer data.  
+Discovered properties differentiating the customer base from the population at large.  
+Created a predictive model for a targeted advertising campaign.  
