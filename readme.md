@@ -24,7 +24,7 @@ There is heavy overlap between the skills and tools used for both types of proje
 
 [Data Dashboard](https://github.com/quantumphysicist/Data-Dashboard-IBM-Data-Analyst)      
 - A [data dashboard](https://www.tinyurl.com/4c9szz63) made using IBM Cognos Analytics.  
-- A report on identifying future IT skill requirements.    
+- A [report](https://github.com/quantumphysicist/Data-Dashboard-IBM-Data-Analyst/blob/main/capstone-presentation.pdf) on identifying future IT skill requirements.    
 
 ### Data Science
 
