@@ -35,7 +35,7 @@ There is a heavy overlap between the skills and tools used for both types of pro
 - A machine learning pipeline that categorizes real messages sent during a disaster. 
 - Built using Flask for easy deployment as a web app.   
 
-[StackOverlow Survey Data](https://github.com/quantumphysicist/StackOverFlow-SurveyData-Analysis)  
+[StackOverFlow Survey Data](https://github.com/quantumphysicist/StackOverFlow-SurveyData-Analysis)  
 - Data analysis on Stack Overflow survey data to help programmers understand their field.  
 
 [Customers vs. General Population](https://github.com/quantumphysicist/Arvato)  
