@@ -11,7 +11,7 @@ There is a heavy overlap between the skills and tools used for both types of pro
 - Demonstrates the application of data analytics for market and data-related research.  
 - Results also reported as an interactive [slideshow](https://quantumphysicist.github.io/Ford-GoBike-Trip-Data-Analysis/slideshow.html#/) containing multiple data visualizations.  
 
-[Data analysis of an A/B test](https://github.com/quantumphysicist/Analysis_of_AB_Test_Results).      
+[Data analysis of an A/B test](https://github.com/quantumphysicist/Analysis_of_AB_Test_Results)      
 - Analysis of the results of an A/B test run by an e-commerce site.    
 - A real-world application of statistics (both using simulations and analytic formulae).    
 
