@@ -9,7 +9,7 @@ There is a heavy overlap between the skills and tools used for both types of pro
 - Exploratory and explanatory data analysis on a Ford GoBike ride-sharing dataset.   
 - This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.  
 - Demonstrates the application of data analytics for market and data-related research.  
-- Results also reported as a [slideshow](https://quantumphysicist.github.io/Ford-GoBike-Trip-Data-Analysis/slideshow.html#/) containing multiple data visualizations.  
+- Results also reported as an interactive [slideshow](https://quantumphysicist.github.io/Ford-GoBike-Trip-Data-Analysis/slideshow.html#/) containing multiple data visualizations.  
 
 [Data analysis of an A/B test](https://github.com/quantumphysicist/Analysis_of_AB_Test_Results).      
 - Analysis of the results of an A/B test run by an e-commerce site.    
