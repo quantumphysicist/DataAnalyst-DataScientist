@@ -36,9 +36,11 @@ There is a heavy overlap between the skills and tools used for both types of pro
 - Built using Flask for easy deployment as a web app.   
 
 [StackOverFlow Survey Data](https://github.com/quantumphysicist/StackOverFlow-SurveyData-Analysis)  
-- Data analysis on Stack Overflow survey data to help programmers understand their field.  
+- Data analysis on Stack Overflow survey data to help programmers understand their field.
+- Reported for non-technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/the-stackoverflow-yearly-survey-a-treasure-trove-of-insight-938aa4ac46b3) article.  
 
 [Customers vs. General Population](https://github.com/quantumphysicist/Arvato)  
 - Supervised and unsupervised machine learning performed on customer data.  
 - Discovered properties differentiating the customer base from the population at large.  
-- Created a predictive model for a targeted advertising campaign.  
+- Created a predictive model for a targeted advertising campaign.
+- Reported for technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3) article.  
