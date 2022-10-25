@@ -1,8 +1,26 @@
-# Data Analytics / Data Science Projects
+# Data Science / Data Analytics Projects
 #### Author: Dr. Renju Mathew.  
 This is a master index for the data science and data analytics projects that are available at https://github.com/quantumphysicist/.   
 There is a heavy overlap between the skills and tools used for both types of projects.
 
+### Data Science
+
+[Customers vs. General Population](https://github.com/quantumphysicist/Arvato)  
+- Supervised and unsupervised machine learning performed on customer data.  
+- Discovered properties differentiating the customer base from the population at large.  
+- Created a predictive model for a targeted advertising campaign.
+- Reported for technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3) article.
+
+[Recommendations Engine](https://github.com/quantumphysicist/Recommendations-with-IBM)    
+- A machine learning approach (matrix factorization), as well as rank-based filtering and user-based collaborative filtering, to creating recommendations for users.   
+
+[Disaster Response Pipelines](https://github.com/quantumphysicist/Disaster-Response-Pipelines)  
+- A machine learning pipeline that categorizes real messages sent during a disaster. 
+- Built using Flask for easy deployment as a web app.   
+
+[StackOverFlow Survey Data](https://github.com/quantumphysicist/StackOverFlow-SurveyData-Analysis)  
+- Data analysis on Stack Overflow survey data to help programmers understand their field.
+- Reported for non-technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/the-stackoverflow-yearly-survey-a-treasure-trove-of-insight-938aa4ac46b3) article.  
 
 ### Data Analytics
 [Ford-GoBike-Trip-Data-Analysis](https://github.com/quantumphysicist/Ford-GoBike-Trip-Data-Analysis)      
@@ -26,21 +44,4 @@ There is a heavy overlap between the skills and tools used for both types of pro
 - A [data dashboard](https://www.tinyurl.com/4c9szz63) made using IBM Cognos Analytics.  
 - A [report](https://github.com/quantumphysicist/Data-Dashboard-IBM-Data-Analyst/blob/main/capstone-presentation.pdf) on identifying future IT skill requirements.    
 
-### Data Science
-
-[Recommendations Engine](https://github.com/quantumphysicist/Recommendations-with-IBM)    
-- A machine learning approach (matrix factorization), as well as rank-based filtering and user-based collaborative filtering, to creating recommendations for users.   
-
-[Disaster Response Pipelines](https://github.com/quantumphysicist/Disaster-Response-Pipelines)  
-- A machine learning pipeline that categorizes real messages sent during a disaster. 
-- Built using Flask for easy deployment as a web app.   
-
-[StackOverFlow Survey Data](https://github.com/quantumphysicist/StackOverFlow-SurveyData-Analysis)  
-- Data analysis on Stack Overflow survey data to help programmers understand their field.
-- Reported for non-technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/the-stackoverflow-yearly-survey-a-treasure-trove-of-insight-938aa4ac46b3) article.  
-
-[Customers vs. General Population](https://github.com/quantumphysicist/Arvato)  
-- Supervised and unsupervised machine learning performed on customer data.  
-- Discovered properties differentiating the customer base from the population at large.  
-- Created a predictive model for a targeted advertising campaign.
-- Reported for technical audiences as a [medium.com](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3) article.  
+  
